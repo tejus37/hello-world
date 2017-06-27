@@ -1,9 +1,4 @@
-# hello-world
+# New Master
 Repository
 
-public class HelloWorld
-{
-	public static void main(String[] args) {
-		System.out.println("Hello World!");
-	}
-}
+We can compose these steps together. For example, if we wanted to retry our deployment 5 times, but never want to spend more than 3 minutes in total before failing the stage:
